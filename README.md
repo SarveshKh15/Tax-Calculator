@@ -17,6 +17,9 @@ It provides users with a convenient way to estimate their tax liabilities.
 5. Click the "Submit" button to calculate the tax.
 6. The result will be displayed in a modal window.
 
+
+## Screenshots
+
 ![Screenshot from 2024-04-11 02-00-14](https://github.com/SarveshKh15/Tax-Calculator/assets/114363938/c1c24202-d584-4a3b-b146-c9027fc7b597)
 ![Screenshot from 2024-04-11 02-00-36](https://github.com/SarveshKh15/Tax-Calculator/assets/114363938/cc83b5f8-0f1c-4cc6-81fc-ccfb240f3559)
 ![Screenshot from 2024-04-11 02-00-42](https://github.com/SarveshKh15/Tax-Calculator/assets/114363938/3d057a8b-73a5-47ce-8a46-2f566c1dbea0)
