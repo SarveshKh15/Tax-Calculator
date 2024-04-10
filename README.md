@@ -17,4 +17,4 @@ It provides users with a convenient way to estimate their tax liabilities.
 5. Click the "Submit" button to calculate the tax.
 6. The result will be displayed in a modal window.
 
-![](/Screenshot from 2024-04-11 02-00-14.png)
+![](screenshots/Screenshot from 2024-04-11 02-00-14.png)
